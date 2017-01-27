@@ -1,4 +1,6 @@
-1. The fore-finger: so called because used in pointing.
+1.
+The fore-finger: so called because used in pointing.
+
 2.
 a. A piece of wood, metal, or the like, which serves as a pointer; esp. in scientific instruments, a pointer which moves along a graduated scale (or which is itself fixed while a graduated scale moves across its extremity) so as to indicate movements or measurements.
 b. The arm of a surveying instrument; an alidade.
